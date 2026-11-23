@@ -18,8 +18,8 @@ Refer to the dataset page for download instructions and licensing information.
 
 ### Model Checkpoints
 
-The trained ResNet-18 model checkpoints and associated training metrics for all seven configurations (Baseline, NN, BN, IN, BIN, LN, and GN) are hosted on Hugging Face:
+The trained ResNet-18 model checkpoints for all seven configurations (Baseline, NN, BN, IN, BIN, LN, and GN) are hosted on Hugging Face:
 
-[Download Model Checkpoints and Training Metrics](https://huggingface.co/NepurnTyagi/resnet-normalization-study)
+[Download Model Checkpoints](https://huggingface.co/NepurnTyagi/resnet-normalization-study)
 
-The repository includes final model checkpoints, training loss histories, and evaluation results.
+The Hugging Face repository includes the final model checkpoints for all seven configurations.
